@@ -6,6 +6,7 @@
 - Benjamín Díaz
 
 ## Docker
+Esto se debe realizar dentro de cada carpeta carpeta
 
 ### Frontend
 
