@@ -1,0 +1,16 @@
+env/
+backend/__pycache__/
+.DS_Store
+node_modules/
+/dist/
+
+.env.local
+.env.*.local
+
+.idea
+.vscode/
+
+backend/rtree.dat
+backend/rtree.idx
+backend/lfw/
+backend/names.txt
