@@ -10,9 +10,5 @@ MarkupSafe==1.1.1
 numpy==1.19.4
 Pillow==8.0.1
 protobuf==3.13.0
-# PyQt5==5.15.1
-# PyQt5-sip==4.19.24
-# Rtree==0.9.4
 six==1.15.0
-# TBB==0.1
 Werkzeug==1.0.1
