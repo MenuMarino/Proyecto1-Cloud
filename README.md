@@ -10,10 +10,10 @@ Esto se debe realizar dentro de cada carpeta carpeta
 
 ### Frontend
 
-- `docker build -t frontend-proyecto .`
+- `docker build -t frontend-proyecto .` o `docker pull bepz/frontend-proyecto`
 - `docker run -p 8080:8080 -d frontend-proyecto`
 
 ### Backend
 
-- `docker build -t backend-proyecto .`
+- `docker build -t backend-proyecto .` o `docker pull bepz/backend-proyecto`
 - `docker run -p 5000:5000 -d backend-proyecto`
