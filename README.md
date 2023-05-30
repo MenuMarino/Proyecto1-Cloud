@@ -5,6 +5,11 @@
 - Rodrigo Céspedes
 - Benjamín Díaz
 
+## Tecnologías de cloud
+* Containers: frontend y backend
+* Amazon Elastic Kubernetes Service (EKS): para realizar el despliegue de los containers
+* S3: para almacenar las imagenes y el R-tree
+
 ## Docker
 Esto se debe realizar dentro de cada carpeta carpeta
 
