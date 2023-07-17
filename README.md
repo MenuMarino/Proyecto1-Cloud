@@ -17,6 +17,9 @@ Fuentes:
 * https://docs.aws.amazon.com/autoscaling/index.html
 * https://aws.amazon.com/cloudwatch/getting-started/
 
+## Presentacion
+* https://docs.google.com/presentation/d/1Qu1CozSDvyYDyXl-PmXKeHdVZ5C7PYwn4q8ZSq-jnrY/edit?usp=sharing
+
 ## Docker
 Esto se debe realizar dentro de cada carpeta carpeta
 
